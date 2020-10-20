@@ -52,7 +52,7 @@ Agent（智能体）Pursues maximum reward in the Environment(环境)
 
 ## Tyoes of RL
 
-![强化学习分类]("../image/强化学习分类.jpg")
+![强化学习分类]("https://github.com/wangxiatian/Reinforcement-learning/blob/main/image/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%88%86%E7%B1%BB.jpg")
 
 ## Exploration and Exploitation
 
@@ -66,7 +66,7 @@ gymz 中提供课很多可学习的游戏与 Examples。
 
 ## 作业
 
-![概论作业]("../image/RL概论作业.jpg")
+![概论作业]("https://github.com/wangxiatian/Reinforcement-learning/blob/main/image/RL%E6%A6%82%E8%AE%BA%E4%BD%9C%E4%B8%9A.jpg")
 
 ## [Datawale 官方笔记](https://datawhalechina.github.io/leedeeprl-notes/#/chapter1/chapter1_questions&keywords)
 

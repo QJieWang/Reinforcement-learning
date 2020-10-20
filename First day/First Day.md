@@ -66,7 +66,7 @@ gymz 中提供课很多可学习的游戏与 Examples。
 
 ## 作业
 
-![概论作业]("https://github.com/wangxiatian/Reinforcement-learning/blob/main/image/RL概论作业.jpg");
+![概论作业]("https://github.com/wangxiatian/Reinforcement-learning/blob/main/image/RL%E6%A6%82%E8%AE%BA%E4%BD%9C%E4%B8%9A.jpg");
 
 ## [Datawale 官方笔记](https://datawhalechina.github.io/leedeeprl-notes/#/chapter1/chapter1_questions&keywords)
 
